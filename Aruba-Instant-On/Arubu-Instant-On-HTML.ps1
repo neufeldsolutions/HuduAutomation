@@ -1,8 +1,8 @@
 
 #### Settings ####
 
-$ArubaInstantOnUser = 'api-user@yourdomain.com'
-$ArubaInstantOnPass = 'Make a long randomly generated password for the account that you save securely'
+$ArubaInstantOnUser = 'jeremy@neufeldsolutions.ca'
+$ArubaInstantOnPass = 'zyph@momWbE1yEe3#[<c8Lpz!Xb2Tf!6'
 
 #### Functions ####
 
