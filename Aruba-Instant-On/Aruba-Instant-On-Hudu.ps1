@@ -1,10 +1,10 @@
 # Aruba Settings
-$ArubaInstantOnUser = 'api-user@yourdomain.com'
-$ArubaInstantOnPass = 'Make a long randomly generated password for the account that you save securely'
+$ArubaInstantOnUser = 'jeremy@neufeldsolutions.ca'
+$ArubaInstantOnPass = 'zyph@momWbE1yEe3#[<c8Lpz!Xb2Tf!6'
 
 # Hudu Settings
-$HuduAPIKey = 'abcdefghijk1234567'
-$HuduBaseDomain = 'https://your.hududomain.com'
+$HuduAPIKey = 'AeD92Yjyeak6UDRMB2i1LNey'
+$HuduBaseDomain = 'https://hudu.neufeldsolutions.ca'
 
 $HuduAssetLayoutNameSite = "Aruba Instant On - Site"
 $HuduAssetLayoutNameDevice = "Aruba Instant On - Device"
